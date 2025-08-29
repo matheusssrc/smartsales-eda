@@ -1,0 +1,5 @@
+pandas==2.*
+matplotlib==3.*
+gspread==6.*
+google-auth==2.*
+google-auth-oauthlib==1.*
