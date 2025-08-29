@@ -1,8 +1,7 @@
 
 # SmartSales – Análise Exploratória (EDA) e KPIs
 
-Este repositório está **pronto para subir** no GitHub.  
-Ele roda de dois jeitos:
+Este repositório roda de dois jeitos:
 - **Colab:** autenticação pela sua conta Google e leitura da planilha.
 - **Local (VS Code/Jupyter):** Service Account via `GDRIVE_SA_JSON` **ou** **modo offline** com `data/samples/SmartSales_Dados.csv`.
 
