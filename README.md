@@ -71,5 +71,5 @@ export GDRIVE_SA_JSON="/home/usuario/credenciais/sa.json"
 
 O projeto foi desenvolvido como parte de um módulo da especialização em Ciência de Dados e Inteligência Artificial. Ele serve como base para análises exploratórias, podendo ser expandido para novos relatórios, integrações com dashboards ou análises preditivas.
 
-Autor: Matheus Rossi Carvalho  
-LinkedIn: https://www.linkedin.com/in/matheusrossicarvalho/
+**Autor:** Matheus Rossi Carvalho  
+**Contato:** [LinkedIn](https://www.linkedin.com/in/matheus-rossi-carvalho/)
